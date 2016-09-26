@@ -27,3 +27,12 @@
 *.exe
 *.out
 *.app
+
+# Build dirs
+vs_project/necir/x64/*
+vs_project/necir/Debug
+vs_project/necir/Release
+
+#VS temp
+*.opendb
+
